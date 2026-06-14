@@ -98,35 +98,6 @@ This project was developed as part of a Java Programming Internship to demonstra
 ● Data Processing and Analysis.<br>
 ● Console-Based Application Development.
 
-## TASK 2: Student Grade Tracker
-
-● Build a Java program to input and manage student grades.<br>
-● Calculate average, highest, and lowest scores.<br>
-● Use arrays or ArrayLists to store and manage data.<br>
-● Display a summary report of all students.<br>
-● Make the interface console-based or GUI-based as desired.
-
-<br>
-
-### Description of Task
-
-The **Student Grade Tracker** is a Java-based application designed to manage and analyze student academic performance. The system allows users to enter student grades, store them using arrays or ArrayLists, and generate useful statistics such as average score, highest score, and lowest score.
-
-#### Features
-
-● Add and manage student grades.<br>
-● Calculate average, highest, and lowest marks.<br>
-● Display a detailed summary report.<br>
-● Store data using Java collections.<br>
-● Simple console-based user interface.
-
-#### Technologies Used
-
-● Java<br>
-● ArrayList / Arrays<br>
-● Object-Oriented Programming (OOP)
-
-<br><br>
 
 ## TASK 4: Hotel Reservation System
 
